@@ -1,7 +1,7 @@
 Ouvrer le ficher template.bat
 Modifier le chemin d'accées en laissant le \template\ pour éviter de créer un problème dans le code, exemple : C:exemple\Destock\template\
 Enlever le fichier template.bat du fichier et deposez le sur votre bureau
-Lancer le template.bat, cela devrais vous créer un fichier template sur votre bureau pour cmmmencer à bien développer
+Lancer le template.bat, cela devrais vous créer un fichier template sur votre bureau pour commencer à bien développer
 Si vous avez rien, lancer le temps que Administrateur
 
 Bonne journée à vous ! =) 
